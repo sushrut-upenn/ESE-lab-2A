@@ -45,7 +45,10 @@ PIO has 4 PIO state machines. All these 4 state machines have shared instruction
 It is an assembler that translates assembly level code from pio.h file into binary code which is loaded in the state machine. Cmake file has a function pico_generate_pio_header(TARGETPIO_FILE) which invokes the pioasm so we dont need to invoke it from the SDK.
 
 
+
 Output GIFS- 
+
+
 ![](https://github.com/sushrut-upenn/ESE-lab-2A-worked-with-Juilee-Samir-Kotnis/blob/main/blinking-color%20(1).gif)
 
 
