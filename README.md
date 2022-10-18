@@ -23,3 +23,6 @@ Code is as follows -
 
 
 ![](https://github.com/sushrut-upenn/ESE-lab-2A-worked-with-Juilee-Samir-Kotnis/blob/main/Serial-and-blinking%20(1).gif)
+
+Spreadsheet link - 
+https://github.com/sushrut-upenn/ESE-lab-2A-worked-with-Juilee-Samir-Kotnis/blob/main/3.4-embedded%20spreadsheet%20(1).xlsx
